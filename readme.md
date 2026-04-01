@@ -42,7 +42,7 @@ and explore together—making every ride smarter and more social.
 <h2>📥 Download the App</h2>
 
 <p>
-<a href="YOUR_APK_OR_PLAYSTORE_LINK_HERE" target="_blank">
+<a href="https://drive.google.com/file/d/1pTQVkLYxdDvI79Zm8mFe6MjscpVKFcDY/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Download-Android-green?style=for-the-badge&logo=android" 
        alt="Download for Android">
 </a>
